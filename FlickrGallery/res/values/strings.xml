@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flickr Gallery</string>
+    <string name="main_nonet">Currently there is no Internet.\r\nPlease tap this message to retry.</string>
+    <string name="main_noitems">No items loaded.</string>
+
+</resources>
