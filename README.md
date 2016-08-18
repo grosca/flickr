@@ -1,2 +1,2 @@
 # flickr
-sample internet photo gallery
+This sample application ilustrates a basic gallery using Flickr's algorithm for tiling multiple images to look consistent. All images are queried from a certain website and rendered through list views.
